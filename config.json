@@ -1,0 +1,40 @@
+{
+	"workbench.iconTheme": "material-icon-theme",
+	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features"
+	},
+	"[php]": {
+		"editor.formatOnSave": true,
+		"editor.formatOnPaste": true
+	},
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true,
+	"editor.formatOnType": true,
+	"[javascript]": {
+		"editor.formatOnSave": true,
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"prettier.useTabs": true,
+	"editor.tabSize": 2,
+	"window.zoomLevel": 1,
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact",
+		"vue-html": "html",
+		"plaintext": "jade"
+	},
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"editor.minimap.enabled": false,
+	"editor.fontSize": 16,
+	"security.workspace.trust.untrustedFiles": "open",
+	"[css]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"html.format.indentInnerHtml": true,
+	"emmet.triggerExpansionOnTab": true,
+	"[scss]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"files.autoSave": "onFocusChange",
+	"prettier.enableDebugLogs": true,
+	"workbench.colorTheme": "Monokai Pro (Filter Machine)"
+}
